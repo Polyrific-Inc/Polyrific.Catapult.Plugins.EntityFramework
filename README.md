@@ -1,0 +1,1 @@
+"# Polyrific.Catapult.Plugins.EntityFramework" 
