@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EC98A52C-BCF
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{CA4E9208-6DF0-4038-ABA2-A8C91098248F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polyrific.Catapult.Plugins.EntityFramework", "src\Polyrific.Catapult.Plugins.EntityFramework\Polyrific.Catapult.Plugins.EntityFramework.csproj", "{4A05DB9C-3A8E-45D1-83D0-87DA3622757C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polyrific.Catapult.TaskProviders.EntityFramework", "src\Polyrific.Catapult.TaskProviders.EntityFramework\Polyrific.Catapult.TaskProviders.EntityFramework.csproj", "{4A05DB9C-3A8E-45D1-83D0-87DA3622757C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyrific.Catapult.Plugins.EntityFramework.UnitTests", "tests\Polyrific.Catapult.Plugins.EntityFramework.UnitTests\Polyrific.Catapult.Plugins.EntityFramework.UnitTests.csproj", "{F8FF5CB7-F3CB-406E-915A-C671F654D462}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyrific.Catapult.TaskProviders.EntityFramework.UnitTests", "tests\Polyrific.Catapult.TaskProviders.EntityFramework.UnitTests\Polyrific.Catapult.TaskProviders.EntityFramework.UnitTests.csproj", "{F8FF5CB7-F3CB-406E-915A-C671F654D462}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

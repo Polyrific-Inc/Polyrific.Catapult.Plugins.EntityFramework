@@ -1,2 +1,2 @@
-# Polyrific.Catapult.Plugins.EntityFramework
-The Catapult plugin to deploy the database of a .NET framework project
+# Polyrific.Catapult.TaskProviders.EntityFramework
+The Catapult task provider to deploy the database of a .NET framework project

@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Polyrific.Catapult.Plugins.EntityFramework.Helpers
+namespace Polyrific.Catapult.TaskProviders.EntityFramework.Helpers
 {
     public class CommandHelper
     {

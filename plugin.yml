@@ -1,4 +1,4 @@
-name: 'Polyrific.Catapult.Plugins.EntityFramework'
+name: 'Polyrific.Catapult.TaskProviders.EntityFramework'
 type: 'DatabaseProvider'
 author: 'Polyrific'
 version: '1.0'

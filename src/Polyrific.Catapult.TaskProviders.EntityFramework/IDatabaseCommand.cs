@@ -2,7 +2,7 @@
 
 using System.Threading.Tasks;
 
-namespace Polyrific.Catapult.Plugins.EntityFramework
+namespace Polyrific.Catapult.TaskProviders.EntityFramework
 {
     public interface IDatabaseCommand
     {

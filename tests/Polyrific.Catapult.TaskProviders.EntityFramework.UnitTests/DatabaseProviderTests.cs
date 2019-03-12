@@ -1,12 +1,12 @@
 using Moq;
 using Newtonsoft.Json;
-using Polyrific.Catapult.Plugins.Core.Configs;
+using Polyrific.Catapult.TaskProviders.Core.Configs;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using Xunit;
 
-namespace Polyrific.Catapult.Plugins.EntityFramework.UnitTests
+namespace Polyrific.Catapult.TaskProviders.EntityFramework.UnitTests
 {
     public class DatabaseProviderTests
     {

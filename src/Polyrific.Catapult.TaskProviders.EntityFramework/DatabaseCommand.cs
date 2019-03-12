@@ -1,13 +1,13 @@
 ﻿// Copyright (c) Polyrific, Inc 2018. All rights reserved.
 
 using Microsoft.Extensions.Logging;
-using Polyrific.Catapult.Plugins.EntityFramework.Helpers;
+using Polyrific.Catapult.TaskProviders.EntityFramework.Helpers;
 using System;
 using System.IO;
 using System.Reflection;
 using System.Threading.Tasks;
 
-namespace Polyrific.Catapult.Plugins.EntityFramework
+namespace Polyrific.Catapult.TaskProviders.EntityFramework
 {
     public class DatabaseCommand : IDatabaseCommand
     {
